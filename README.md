@@ -6,6 +6,7 @@ This dashboard enables business stakeholders to make data-driven decisions by id
 
 
 **Business Problem Statement**
+
 Organizations often struggle to monitor sales performance across multiple dimensions such as product categories, regions, and sales teams. Without a centralized reporting system, identifying growth opportunities and performance bottlenecks becomes difficult.
 This dashboard addresses these challenges by providing:
 • Real-time visibility into sales performance  
