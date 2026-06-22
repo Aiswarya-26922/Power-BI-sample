@@ -31,6 +31,7 @@ This dashboard addresses these challenges by providing:
 <img width="1337" height="732" alt="Screenshot 2026-06-18 154050" src="https://github.com/user-attachments/assets/deaff4c4-c268-4ae5-b69a-c84d4f9d699d" />
 
 **Tech Stack**
+
 • Power BI Desktop  
 • Power Query  
 • DAX (Data Analysis Expressions)  
@@ -39,6 +40,7 @@ This dashboard addresses these challenges by providing:
 
 
 **Dashboard Features**
+
 **KPI Cards**
 • Total Revenue  
 • Total Profit  
@@ -47,23 +49,28 @@ This dashboard addresses these challenges by providing:
 • Number of States Covered  
 
 **Revenue Analysis**
+
 • Revenue by Category  
 • Revenue by Sub-Category  
 • Revenue by Region  
 
 **Sales Performance**
+
 • Salesperson-wise Revenue Analysis  
 • Top Performer Identification  
 
 **Geographic Insights**
+
 • State-wise Revenue Distribution  
 • Interactive Map Visualization  
 
 **Trend Analysis**
+
 • Revenue Trend by Product Sub-Category  
 • Comparative Performance Analysis  
 
 **Interactive Functionality**
+
 • Filters and Slicers  
 • Cross-Filtering  
 • Dynamic Visual Interactions  
@@ -80,6 +87,7 @@ Key Metrics
 
 
 **Insights Generated**
+
 • Office Supplies contribute the highest share of revenue.  
 • Revenue is fairly distributed across major product categories.  
 • South Region generates the highest revenue among all regions.  
@@ -89,6 +97,7 @@ Key Metrics
 
 
 **Business Impact**
+
 This dashboard helps management:
 • Monitor business performance in real time  
 • Identify profitable product segments  
@@ -98,6 +107,7 @@ This dashboard helps management:
 • Improve resource allocation and sales planning  
 
 **Future Enhancements**
+
 • Customer Segmentation Analysis  
 • Sales Forecasting  
 • Profit Margin Analysis  
@@ -111,4 +121,5 @@ The Sales Performance Dashboard provides a centralized view of business performa
 
 
 **Author**
+
 Aiswarya Kota
